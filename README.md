@@ -1,4 +1,8 @@
-# 
+# API Documentation
+
+[Manage your AI Copilot users](https://help.getconduit.app/en/article/manage-your-ai-copilot-users-1y4wpc4/)
+
+[Create an AI Сopilot for your app](https://help.getconduit.app/en/article/create-an-ai-sopilot-for-your-app-16uf54b/)
 
 # Requirements 
 
