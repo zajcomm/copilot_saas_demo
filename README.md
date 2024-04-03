@@ -12,6 +12,11 @@ Project requires Python>=3.11 and [Poetry](https://python-poetry.org/) for packa
 poetry install
 ```
 
+# Configuration
+
+Open file `conduit/settings.py` and change `LINK_TOKEN` variable.  
+You can acquire `LINK_TOKEN` [here](https://app.getconduit.app/auth/link_app_token/).   
+
 # Running
 
 Execute following command and open http://127.0.0.1:8000.
