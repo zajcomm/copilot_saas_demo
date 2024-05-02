@@ -4,7 +4,7 @@ import os
 
 # Conduit API Config
 # Get from https://app.getconduit.app/auth/link_app_token/
-LINK_TOKEN = ' ... paste your token here ... '
+LINK_TOKEN = '678cc14ff9564f9fbca6dc276a6e683a'
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
